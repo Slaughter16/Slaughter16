@@ -33,7 +33,7 @@ Simulates an enterprise SOC environment with firewall, DNS filtering, domain con
 
 ## 📫 Connect with Me
 
-- [🔗 LinkedIn](www.linkedin.com/in/john-slaughter-08a872262)
+- [🔗 LinkedIn](https://www.linkedin.com/in/john-slaughter-08a872262)
 - [💻 GitHub](https://github.com/Slaughter16)
 - 📬 Open to entry-level IT, SOC analyst, or network roles!
 
