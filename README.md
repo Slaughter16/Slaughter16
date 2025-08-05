@@ -27,7 +27,19 @@ I'm an IT and Cybersecurity professional with a Bachelor's degree in Cybersecuri
 ### 🔹 [Proxmox Cybersecurity Homelab](https://github.com/Slaughter16/Proxmox-IT-Cybersecurity-Homelab)
 Simulates an enterprise SOC environment with firewall, DNS filtering, domain control, IDS, and SIEM. Includes Kali and Metasploitable for offensive testing.
 
-> Tools used: Proxmox, pfSense, Pi-hole, Security Onion, Splunk, Kali, Windows Server, Ansible
+> Tools used: Proxmox, pfSense, Pi-hole, Security Onion, Splunk, Kali, Windows Server, Metasploitable
+
+### 🔹 [Proxmox Networking Lab](https://github.com/Slaughter16/Proxmox-Networking-Lab)
+A hands-on Proxmox homelab project using pfSense, VLAN segmentation, Pi-hole DNS, Security Onion monitoring, and Windows/Linux clients and OpenVPN. 
+
+> Tools used: Proxmox, pfSense, Pi-hole, Security Onion, Windows Server, Windows 10, Debian, OpenVPN
+
+Includes:
+- 🛡️ Network isolation via VLANs
+- 🌐 Centralized DNS resolution with Pi-hole
+- 🔍 Network monitoring and threat detection with Security Onion
+- 🖥️ Windows Server and Client integration with Active Directory
+- 🔗 OpenVPN remote access configuration
 
 ---
 
