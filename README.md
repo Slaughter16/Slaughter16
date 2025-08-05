@@ -45,7 +45,7 @@ Includes:
 
 ## 📫 Connect with Me
 
-- [🔗 LinkedIn](https://www.linkedin.com/in/john-slaughter-08a872262)
+- [🔗Connect with me on LinkedIn](https://www.linkedin.com/in/john-slaughter-08a872262/)
 - [💻 GitHub](https://github.com/Slaughter16)
 - 📬 Open to entry-level IT, SOC analyst, or network roles!
 
