@@ -7,7 +7,9 @@
 
 ## 🔍 About Me
 
-I'm an IT and Cybersecurity professional with a Bachelor's degree in Cybersecurity and CCNA certification. My passion lies in **network infrastructure**, **system administration**, and **defensive security** operations. I build hands-on labs using tools like **Proxmox**, **pfSense**, **Security Onion**, **Kali Linux**, and **Splunk** to simulate real-world environments and continually grow my skills.
+I'm a Networking and Cybersecurity practitioner with a Bachelor's degree in Cybersecurity and CCNA certification. My passion lies in **network infrastructure**, **system administration**, and **defensive security** operations. I build hands-on labs using tools like **Proxmox**, **pfSense**, **Security Onion**, **Kali Linux**, **Pi-hole**, and **Splunk** to simulate real-world environments and continually grow my skills.
+
+Most recently, I completed a full-stack Proxmox homelab featuring VLAN segmentation, OpenVPN remote access, multi-VM network simulation, and layered security controls. I enjoy building, breaking, and hardening systems to continually grow my practical skills in a safe lab environment.
 
 ---
 
@@ -35,11 +37,11 @@ A hands-on Proxmox homelab project using pfSense, VLAN segmentation, Pi-hole DNS
 > Tools used: Proxmox, pfSense, Pi-hole, Security Onion, Windows Server, Windows 10, Debian, OpenVPN
 
 Includes:
-- 🛡️ Network isolation via VLANs
-- 🌐 Centralized DNS resolution with Pi-hole
+- 🛡️ VLAN-based network segmentation and isolation
+- 🌐 Centralized DNS filtering with Pi-hole
 - 🔍 Network monitoring and threat detection with Security Onion
-- 🖥️ Windows Server and Client integration with Active Directory
-- 🔗 OpenVPN remote access configuration
+- 🖥️ Windows Server and Client configured for basic connectivity and testing
+- 🔗 OpenVPN configuration for remote secure access
 
 ---
 
