@@ -7,7 +7,7 @@
 
 ## 🔍 About Me
 
-I'm a Networking and Cybersecurity practitioner with a Bachelor's degree in Cybersecurity and CCNA certification. My passion lies in **network infrastructure**, **system administration**, and **defensive security** operations. I build hands-on labs using tools like **Proxmox**, **pfSense**, **Security Onion**, **Kali Linux**, **Pi-hole**, and **Splunk** to simulate real-world environments and continually grow my skills.
+I'm a Networking and Cybersecurity practitioner with a Bachelor's degree in Cybersecurity and CCNA certification. My passion lies in **network infrastructure**, **system administration**, **IT operations**, and **defensive security** operations. I build hands-on labs using tools like **Proxmox**, **pfSense**, **Security Onion**, **Windows Server 2019**, **Windows 10/11**, **Linux VMs (Kali, Ubuntu, Debian)**,**Kali Linux**, **Pi-hole**, and **Splunk** to simulate real-world environments and continually grow my skills.
 
 Most recently, I completed a full-stack Proxmox homelab featuring VLAN segmentation, OpenVPN remote access, multi-VM network simulation, and layered security controls. I enjoy building, breaking, and hardening systems to continually grow my practical skills in a safe lab environment.
 
