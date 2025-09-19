@@ -34,7 +34,7 @@ Simulates an enterprise SOC environment with firewall, DNS filtering, domain con
 ### 🔹 [Proxmox Networking Lab](https://github.com/Slaughter16/Proxmox-Networking-Lab)
 A hands-on Proxmox homelab project using pfSense, VLAN segmentation, Pi-hole DNS, Security Onion monitoring, Windows/Linux clients and OpenVPN. 
 
-> Tools used: Proxmox, pfSense, Pi-hole, Security Onion, Windows Server 2019, Windows 10/11, Debian, OpenVPN
+> Tools used: Proxmox, pfSense, Pi-hole, Security Onion, Windows Server 2019, Windows 10/11, Metasploitable 2, Debian, OpenVPN
 
 Includes:
 - 🛡️ VLAN-based network segmentation and isolation
