@@ -64,7 +64,7 @@ A full-featured **Active Directory Enterprise Lab** built to simulate real-world
 - ✅ **Testing & Validation:** Password policy enforcement, account lockouts, access control verification . 
 - ✅ **Auditing & Monitoring:** Event logs, access validation, GPO enforcements.
   
-  - **Department-Specific GPOs:**
+- **Department-Specific GPOs:**
    - 🔹 **IT Department (OU: LabUsers → IT)**
       - Create a centralized Wallpaper folder
       - Share folder and configure NTFS permissions
