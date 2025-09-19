@@ -45,6 +45,17 @@ Includes:
 
 ---
 
+### [Active Directory Enterprise Lab](https://github.com/Slaughter16/Active-Directory-Enterprise-Lab)
+
+
+
+
+
+
+
+
+---
+
 ## 📫 Connect with Me
 
 - [🔗Connect with me on LinkedIn](https://www.linkedin.com/in/john-slaughter-08a872262/)
