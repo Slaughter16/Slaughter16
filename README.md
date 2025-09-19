@@ -48,7 +48,7 @@ Includes:
 ### 🔹 [Active Directory Enterprise Lab](https://github.com/Slaughter16/Active-Directory-Enterprise-Lab)
 A full-featured **Active Directory Enterprise Lab** built to simulate real-world corporate IT environments. This lab demonstrates enterprise-level AD concepts, security, automation, and administrative practices.  
 
-> Tools used: Proxmox, pfSense, Windows Server 2019, Windows 10/11 clients, Linux Debian client, Active Directory Domain Services (AD DS), Active Directory Users and Computers (ADUC), Group Policy Management Console (GPMC), Active Directory Administrative Center (ADAC), File Server Resource Manager (FSRM), Sysinternals Suite, and Event Viewer
+> Tools used: Proxmox, pfSense, Windows Server 2019, Windows 10/11 clients, Linux Debian client, Active Directory Domain Services (AD DS), Active Directory Users and Computers (ADUC), Group Policy Management Console (GPMC), Active Directory Administrative Center (ADAC), File Server Resource Manager (FSRM), Sysinternals Suite, Registry Editor, and Event Viewer
 
 **Key Features & Configurations:**  
 - ✅**Active Directory Domain Services (AD DS)** setup such as AD/DHCP/DNS integration with `corp.local` domain  
