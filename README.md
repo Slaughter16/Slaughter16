@@ -48,21 +48,33 @@ Includes:
 ### 🔹 [Active Directory Enterprise Lab](https://github.com/Slaughter16/Active-Directory-Enterprise-Lab)
 A full-featured **Active Directory Enterprise Lab** built to simulate real-world corporate IT environments. This lab demonstrates enterprise-level AD concepts, security, automation, and administrative practices.  
 
-> Tools used: Proxmox, pfSense, Windows Server 2019, Windows 10/11 clients, Linux Debian client, Active Directory Users and Computers (ADUC), Group Policy Management Console (GPMC), Active Directory Administrative Center (ADAC), Sysinternals Suite.
+> Tools used: Proxmox, pfSense, Windows Server 2019, Windows 10/11 clients, Linux Debian client, Active Directory Users and Computers (ADUC), Group Policy Management Console (GPMC), Active Directory Administrative Center (ADAC), Sysinternals Suite, Event Viewer.
 
 **Key Features & Configurations:**  
-- **Active Directory Domain Services (AD DS)** setup with `corp.local` domain  
+- ✅**Active Directory Domain Services (AD DS)** setup such as AD/DHCP/DNS integration with `corp.local` domain  
 - ✅ **Organizational Units (OUs)** for Users, Groups, Workstations, and Service Accounts  
 - ✅ **Group Policy Objects (GPOs):**  
   - Password and Account Lockout Policies  
   - User Rights Assignment for Role-Based Access Control  
   - Fine-Grained Password Policies (FGPP) for admin vs. standard users  
   - Kiosk/Service Account login restrictions  
-- ✅ **Service Accounts & Kiosk Setup** for auto-login and restricted workstations  
-- ✅ **NTFS & Share Permissions** demonstrating inheritance, explicit permissions, and deny rules  
+- ✅ **Service Accounts & Kiosk Setup** for auto-login, full-screen browser, and restricted local logon.
+- ✅ **NTFS & Share Permissions** demonstrating inheritance, explicit permissions, and deny rules.  
 - ✅ **File Server Organization:** `Common`, `Project`, `Events`, `Contracts`, `Confidential`  
-- ✅ **Testing & Validation:** Password policy enforcement, account lockouts, access control verification  
-
+- ✅ **Testing & Validation:** Password policy enforcement, account lockouts, access control verification . 
+- ✅ **Auditing & Monitoring:** Event logs, access validation, GPO enforcements.
+  
+  - **Department-Specific GPOs:**
+    - 🔹 **IT Department (OU: LabUsers → IT)**
+      - Create a centralized Wallpaper folder
+      - Share folder and configure NTFS permissions
+      - Apply wallpaper via GPO
+      - Disable Control Panel access
+     - 🔹 **HR Department (OU: LabUsers → HR)**
+      - Folder Redirection for Documents/Desktop
+      - Enforce password-protected screensaver
+      - Disable USB storage access
+      - Set up HR shared folder with proper access
 **Learning Outcomes:**  
 - Enterprise-level AD design and management  
 - Implementing strong security standards in AD environments  
