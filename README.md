@@ -65,12 +65,12 @@ A full-featured **Active Directory Enterprise Lab** built to simulate real-world
 - ✅ **Auditing & Monitoring:** Event logs, access validation, GPO enforcements.
   
   - **Department-Specific GPOs:**
-    🔹 **IT Department (OU: LabUsers → IT)**
+   - 🔹 **IT Department (OU: LabUsers → IT)**
       - Create a centralized Wallpaper folder
       - Share folder and configure NTFS permissions
       - Apply wallpaper via GPO
       - Disable Control Panel access
-    🔹 **HR Department (OU: LabUsers → HR)**
+   - 🔹 **HR Department (OU: LabUsers → HR)**
       - Folder Redirection for Documents/Desktop
       - Enforce password-protected screensaver
       - Disable USB storage access
