@@ -60,7 +60,14 @@ A full-featured **Active Directory Enterprise Lab** built to simulate real-world
   - Kiosk/Service Account login restrictions  
 - ✅ **Service Accounts & Kiosk Setup** for auto-login, full-screen browser, and restricted local logon.
 - ✅ **NTFS & Share Permissions** demonstrating inheritance, explicit permissions, and deny rules.  
-- ✅ **File Server Organization:** `Common`, `Project`, `Events`, `Contracts`, `Confidential`  
+- ✅ **File Server Organization:** `Common`, `Project`, `Events`, `Contracts`, `Confidential`
+- ✅ **File Server Resource Manager (FSRM):**  
+  - Install FSRM role on Windows Server  
+  - Configure quotas for shared folders  
+    - Create quota, define custom properties, notification thresholds, and save quota templates  
+  - Configure file screening  
+    - Create file screens, define blocked file types, active screening, and save templates  
+  - Verify quotas and file screens through testing and Event Viewer alerts
 - ✅ **Testing & Validation:** Password policy enforcement, account lockouts, access control verification . 
 - ✅ **Auditing & Monitoring:** Event logs, access validation, GPO enforcements.
 ---  
