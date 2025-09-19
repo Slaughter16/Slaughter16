@@ -75,6 +75,7 @@ A full-featured **Active Directory Enterprise Lab** built to simulate real-world
       - Enforce password-protected screensaver
       - Disable USB storage access
       - Set up HR shared folder with proper access
+  
 **Learning Outcomes:**  
 - Enterprise-level AD design and management  
 - Implementing strong security standards in AD environments  
