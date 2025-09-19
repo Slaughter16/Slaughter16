@@ -51,7 +51,7 @@ A full-featured **Active Directory Enterprise Lab** built to simulate real-world
 > Tools used: Proxmox, pfSense, Windows Server 2019, Windows 10/11 clients, Linux Debian client, Active Directory Users and Computers (ADUC), Group Policy Management Console (GPMC), Active Directory Administrative Center (ADAC), Sysinternals Suite.
 
 **Key Features & Configurations:**  
-- ✅ **Active Directory Domain Services (AD DS)** setup with `corp.local` domain  
+- **Active Directory Domain Services (AD DS)** setup with `corp.local` domain  
 - ✅ **Organizational Units (OUs)** for Users, Groups, Workstations, and Service Accounts  
 - ✅ **Group Policy Objects (GPOs):**  
   - Password and Account Lockout Policies  
